@@ -1,3 +1,7 @@
+interface IBalancerVault {
+    function flashLoan(address recipient, address[] memory tokens, uint256[] memory amounts, bytes memory userData)
+        external;
+}
 interface ICamelotRouter {
     function removeLiquidityETHSupportingFeeOnTransferTokens(
         address token,
@@ -221,8 +225,3 @@ interface IERC20 {
     function owner() external view virtual returns (address);
 }
 
-interface IBalancerVault {
-
-    function flashLoan(address recipient, address[] memory tokens, uint256[] memory amounts, bytes memory userData)
-        external;
-}
