@@ -34,7 +34,7 @@ Writing Code (Balancer Flashloan)
 
 ## Hints
 
-I think there's four inputs in that the flashLoan needs. I'm not sure what input types they are, maybe you can check the interface file in the test folder? The required variable types should be there. 
+I think there are four input parameter for the flashLoan function. I'm not sure what input types they are, maybe you can check the interface file in the test folder? The required variable types should be there. 
 
 Also, 2 of the input types requires an array input... maybe try creating an array first?
 
