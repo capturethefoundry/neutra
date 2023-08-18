@@ -48,4 +48,3 @@ The solution will be posted in the [solution](https://github.com/capturethefound
 
 The [NEUTRA protocol](https://twitter.com/phalcon_xyz/status/1686654241111429120) on the [Arbitrum](https://arbiscan.io/tx/0x6301d4c9f7ac1c96a65e83be6ea2fff5000f0b1939ad24955e40890bd9fe6122) network was hacked on August 1st 2023. The attacker ran away with ~23 Ether.
 
-//Test update
