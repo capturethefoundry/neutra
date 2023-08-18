@@ -42,7 +42,7 @@ If I'm not wrong, I don't think the data input really matter...
 
 ## Solution
 
-The solution will be posted in the [solution](https://github.com/capturethefoundry/neutra/tree/main/solution/Neutra.t.sol) folder at a later date.
+The solution will be posted in the [solution](https://github.com/capturethefoundry/neutra/tree/main/solution/success.sol) folder at a later date.
 
 ## Context
 
